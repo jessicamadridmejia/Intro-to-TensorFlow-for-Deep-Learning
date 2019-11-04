@@ -36,4 +36,5 @@ Udacity course.
 5. Forecasting with Machine Learning ([l08c05_forecasting_with_machine _learning.ipynb](https://github.com/jessicamadridmejia/Intro-to-TensorFlow-for-Deep-Learning/blob/master/l08c05_forecasting_with_machine__learning.ipynb))
 6. Forecasting with RNNs ([l08c06_forecasting_with_rnn.ipynb](https://github.com/jessicamadridmejia/Intro-to-TensorFlow-for-Deep-Learning/blob/master/l08c06_forecasting_with_rnn.ipynb))
 7. Forecasting with Stateful RNNs([l08c07_forecasting_with_stateful_rnn.ipynb](https://github.com/jessicamadridmejia/Intro-to-TensorFlow-for-Deep-Learning/blob/master/l08c07_forecasting_with_stateful_rnn.ipynb))
-8. - LSTM: Long Short Term Memory- ([]())
+8. Forecasting with LSTM - LSTM: Long Short Term Memory- ([l08c08_forecasting_with_lstm.ipynb](https://github.com/jessicamadridmejia/Intro-to-TensorFlow-for-Deep-Learning/blob/master/l08c08_forecasting_with_lstm.ipynb))
+8. Forecasting with CNNs ([l08c09_forecasting_with_cnn.ipynb](https://github.com/jessicamadridmejia/Intro-to-TensorFlow-for-Deep-Learning/blob/master/l08c09_forecasting_with_cnn.ipynb))
